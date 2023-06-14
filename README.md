@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @t-michaud (Thomas Michaud)
 - 👀 I’m interested in asking "if we do a great job how will we improve someone's life?" Also interested in doodling and Royal Enfield motorcycles.
 - 🌱 I’m currently learning Sketch after using Figma for the past three years.
-- 💞️ I’m looking to collaborate on ... well, I'm not sure. A children's story? Accessibility audit? A design project?
 - 📫 How to reach me: email thomas.michaud@oddball.io
 
 <!---
